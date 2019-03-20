@@ -10,3 +10,9 @@
 - [GC](https://www.cnblogs.com/woshimrf/p/jvm-garbage.html)
 - [G1 gc](https://www.jianshu.com/p/0f1f5adffdc1)
 - [G1 gc](https://blog.csdn.net/baiye_xing/article/details/73743395)
+
+
+
+# Oracle Document
+- [java tools](https://docs.oracle.com/en/java/javase/12/core/java-core-libraries1.html)
+- [java tools](https://docs.oracle.com/en/java/javase/12/tools/jstat.html#GUID-5F72A7F9-5D5A-4486-8201-E1D1BA8ACCB5)
