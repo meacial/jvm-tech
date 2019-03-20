@@ -16,3 +16,4 @@
 # Oracle Document
 - [java tools](https://docs.oracle.com/en/java/javase/12/core/java-core-libraries1.html)
 - [java tools](https://docs.oracle.com/en/java/javase/12/tools/jstat.html#GUID-5F72A7F9-5D5A-4486-8201-E1D1BA8ACCB5)
+- [java jvm](https://www.oracle.com/technetwork/tutorials/tutorials-1876574.html)
