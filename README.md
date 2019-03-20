@@ -9,3 +9,4 @@
 - [CMS gc](https://www.cnblogs.com/Leo_wl/p/5393300.html)
 - [GC](https://www.cnblogs.com/woshimrf/p/jvm-garbage.html)
 - [G1 gc](https://www.jianshu.com/p/0f1f5adffdc1)
+- [G1 gc](https://blog.csdn.net/baiye_xing/article/details/73743395)
